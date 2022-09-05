@@ -1,0 +1,14 @@
+﻿Pos,Treansaction_id,Product,quanity,customer,date
+1,E001,samsung smart TV,5,Test surash ,25-08-2022
+2,E001,Iphone12,22,Test surash ,25-08-2022
+3,E003,Iphone 13,18,Test customer ,22-08-2022
+4,E004,Smart watch,20,Test customer ,28-08-2022
+5,E003,samsung 12gs,12,Test customer ,22-08-2022
+6,E006,Google pixle 4,18,Test customer ,19-08-2022
+7,E007,Iphone 13 pro max,12,Test customer ,25-08-2022
+8,E008,Aiprpods 4s,40,Test customer ,19-08-2022
+9,E009,Iphone 13,4,Test customer ,16-08-2022
+10,E009,samsung smart TV,9,Test customer ,25-08-2022
+11,E011,Mac book pro,11,Anil ,16-08-2022
+12,E009,Iphone 13,18,Anil ,25-08-2022
+13,E011,Apple watch s4,21,Anil ,16-08-2022
